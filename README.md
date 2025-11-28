@@ -84,7 +84,7 @@ snakescape.exe
 ### Menu Navigation
 - **Arrow Keys / W,S**: Navigate menu options
 - **Enter / Space / Mouse Click**: Select option
-- **ESC**: Back to previous screen or quit game
+- **ESC**: Quit game
 
 ### In-Game
 - **Arrow Keys / WASD**: Control snake direction
