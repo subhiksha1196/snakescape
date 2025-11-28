@@ -6,7 +6,6 @@ A modern twist on the classic Snake game with multiple game modes, stunning visu
 
 ![Game Version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Language](https://img.shields.io/badge/language-C-blue)
-![License](https://img.shields.io/badge/license-MIT-orange)
 
 ## Features
 
@@ -133,7 +132,6 @@ A relaxed mode for endless fun:
 snakescape/
 ├── snake_game.c        # Main game source code
 ├── README.md           # This file
-└── LICENSE             # License information
 ```
 
 ## Contributing
@@ -171,7 +169,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Authors
 
 - Subhiksha - [GitHub](https://github.com/subhiksha1196)
-- Sreya - [GitHub]()
+- Sreya - [GitHub](https://github.com/sreya889)
 - Sanjai - [GitHub](https://github.com/Sanjai05122006)
 
 ## Support
