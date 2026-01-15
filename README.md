@@ -10,22 +10,22 @@ A modern twist on the classic Snake game with multiple game modes, stunning visu
 ## Screenshots
 
 ### Front Page
-<img src="screenshots/front-page.png" alt="Front Page" width="600">
+<img src="screenshots/front-page.png" alt="Front Page" width="500">
 
 ### Main Menu
-<img src="screenshots/menu.png" alt="Main Menu" width="600">
+<img src="screenshots/menu.png" alt="Main Menu" width="500">
 
 ### Classic Mode
-<img src="screenshots/classic-mode.png" alt="Classic Mode" width="600">
+<img src="screenshots/classic-mode.png" alt="Classic Mode" width="500">
 
 ### Time Attack
-<img src="screenshots/time-attack-mode.png" alt="Time Attack" width="600">
+<img src="screenshots/time-attack-mode.png" alt="Time Attack" width="500">
 
 ### Challenge Mode
-<img src="screenshots/challenge-mode.png" alt="Challenge Mode" width="600">
+<img src="screenshots/challenge-mode.png" alt="Challenge Mode" width="500">
 
 ### Infinite Play
-<img src="screenshots/infinite-play.png" alt="Infinite Play" width="600">
+<img src="screenshots/infinite-play.png" alt="Infinite Play" width="500">
 
 ## Features
 
