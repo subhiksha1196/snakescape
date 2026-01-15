@@ -7,6 +7,26 @@ A modern twist on the classic Snake game with multiple game modes, stunning visu
 ![Game Version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Language](https://img.shields.io/badge/language-C-blue)
 
+## Screenshots
+
+### Front Page
+![Front Page](screenshots/front-page.png)
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Classic Mode
+![Classic Mode](screenshots/classic-mode.png)
+
+### Time Attack
+![Time Attack](screenshots/time-attack-mode.png)
+
+### Challenge Mode
+![Challenge Mode](screenshots/challenge-mode.png)
+
+### Infinite Play
+![Infinite Play](screenshots/infinite-play.png)
+
 ## Features
 
 - **4 Unique Game Modes**
@@ -71,12 +91,15 @@ cd snakescape
 ```
 
 3. Compile using your preferred method:
-   - **MinGW**: `gcc snake_game.c -o snakescape.exe -lraylib -lopengl32 -lgdi32 -lwinmm`
+   - **MinGW/w64devkit**: 
+   ```bash
+   gcc snake_game.c -o snakescape.exe -I<path-to-raylib>/include -L<path-to-raylib>/lib -lraylib -lopengl32 -lgdi32 -lwinmm
+   ```
    - **MSVC**: Use Visual Studio with Raylib configured
 
 4. Run the executable:
 ```bash
-snakescape.exe
+.\snakescape.exe
 ```
 
 ## Controls
@@ -130,8 +153,9 @@ A relaxed mode for endless fun:
 
 ```
 snakescape/
-├── snake_game.c        # Main game source code
-├── README.md           # This file
+├── snake_game.c           # Main game source code
+├── screenshots/           # Game screenshots
+└── README.md              # This file
 ```
 
 ## Known Issues
@@ -161,11 +185,11 @@ snakescape/
 ## Support
 
 If you enjoy this game, please consider:
-- Starring the repository
+- Starring the repository ⭐
 - Sharing it with friends
 - Contributing to the project
 - Reporting bugs and suggesting features
 
 ---
 
-**Made with passion for classic gaming** | Version 1.0
+**Made with passion for classic gaming** 🎮 | Version 1.0

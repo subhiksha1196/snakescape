@@ -1,0 +1,55 @@
+# VS Code settings
+.vscode/
+
+# Compiled executables
+*.exe
+*.out
+snakescape
+snakescape.exe
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# Compiler output
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.ilk
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build directories
+build/
+bin/
+obj/
+dist/
+
+# IDE files
+*.swp
+*.swo
+*~
+.idea/
+*.sublime-*
+
+# Dependencies (if you add any)
+vendor/
+lib/
+!lib/README.md
+
+# Backup files
+*.bak
+*.backup
